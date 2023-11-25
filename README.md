@@ -7,16 +7,10 @@ Este projeto é uma calculadora simples que realiza o somatório dos números di
 1. Faça o download do código-fonte ou clone este repositório para o seu computador.
 
     ```bash
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    git clone https://github.com/SchmidtMatheus/SumCalculator.git
     ```
 
-2. Navegue até o diretório do projeto.
-
-    ```bash
-    cd nome-do-repositorio
-    ```
-
-3. Abra o arquivo `index.html` no seu navegador da web.
+2. Navegue até o diretório do projeto e abra o arquivo `index.html` no seu navegador da web.
 
     ```bash
     open index.html
