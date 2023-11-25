@@ -1,2 +1,46 @@
-# SumCalculator
-Uma calculadora que recebe um número e retorna o somatório de todos os valores inteiros divisíveis por 3 ou 5 que sejam inferiores ao número passado
+# Sum Calculator
+
+Este projeto é uma calculadora simples que realiza o somatório dos números divisíveis por 3 ou 5 até o número inserido pelo usuário. A aplicação utiliza HTML, CSS e JavaScript.
+
+## Como Rodar o Projeto
+
+1. Faça o download do código-fonte ou clone este repositório para o seu computador.
+
+    ```bash
+    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    ```
+
+2. Navegue até o diretório do projeto.
+
+    ```bash
+    cd nome-do-repositorio
+    ```
+
+3. Abra o arquivo `index.html` no seu navegador da web.
+
+    ```bash
+    open index.html
+    ```
+
+    ou
+
+    ```bash
+    start index.html
+    ```
+
+A aplicação será aberta no seu navegador.
+
+## Como Testar a Calculadora
+
+1. Insira um número inteiro positivo no campo de entrada.
+
+2. Clique no botão "Calcular somatório" para calcular o somatório dos números divisíveis por 3 ou 5 até o número inserido.
+
+3. A resposta será exibida abaixo do botão.
+
+4. Para testar novamente, basta inserir outro número e clicar no botão.
+
+
+## Autor
+
+Nome: Matheus Schmidt
