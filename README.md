@@ -12,16 +12,6 @@ Este projeto é uma calculadora simples que realiza o somatório dos números di
 
 2. Navegue até o diretório do projeto e abra o arquivo `index.html` no seu navegador da web.
 
-    ```bash
-    open index.html
-    ```
-
-    ou
-
-    ```bash
-    start index.html
-    ```
-
 A aplicação será aberta no seu navegador.
 
 ## Como Testar a Calculadora
